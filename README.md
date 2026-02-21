@@ -1,0 +1,15 @@
+Part,Description,Link,Price per unit (€),Ammount,"Total (per part, in €)"
+Raspberry Pi Pico,microcontroller,https://www.optimusdigital.ro/ro/placi-raspberry-pi/12024-raspberry-pi-pico-728886755172.html?src=raspberrypi,4.41,1,4.41
+BMP280,barometric pressure sensor module,https://sigmanortec.ro/modul-presiune-temperatura-si-umiditate-bmp280-5v?SubmitCurrency=1&id_currency=2&gad_source=1&gad_campaignid=23069763085&gbraid=0AAAAAC3W72MqO1hIai5K839OtH_rW4fdt&gclid=Cj0KCQiAhaHMBhD2ARIsAPAU_D6m6hgVMwm99zaFgGx8bxnPrVE7KoAxDTnhRrG4KSHDxbSTu-MrqBUaAtvNEALw_wcB,1.75,1,1.75
+14500 battery holder,battery holder,https://sigmanortec.ro/Suport-2-baterii-AA-cu-capac-si-intrerupator-p126400264,0.42,1,0.42
+100k ohm resistors,resistors,https://sigmanortec.ro/Rezistor-p126025265#/37-valoare_rezistor-100k,0.03,20,0.6
+220 ohm resistors,resistors,https://sigmanortec.ro/Rezistor-p126025265#/15-valoare_rezistor-220,0.03,20,0.6
+JF-0530B solenoid,solenoid,https://sigmanortec.ro/piston-electromagnetic-jf-0530b-cu-solenoid-6v-push-pull?SubmitCurrency=1&id_currency=2&gad_source=1&gad_campaignid=23069763085&gbraid=0AAAAAC3W72MqO1hIai5K839OtH_rW4fdt&gclid=Cj0KCQiAhaHMBhD2ARIsAPAU_D74P2ulNtLHpSi3LJLeozpIpw9Qz4V4CKya4AjvoCUFgkFY1OBUqAwaAv2aEALw_wcB,4.86,1,4.86
+14500 Li-ion battery,battery,https://www.aliexpress.com/item/1005007627189357.html?spm=a2g0o.detail.0.0.1b5f2Den2Denst&mp=1&pdp_npi=6%40dis%21RON%21RON%2085.80%21RON%2038.60%21%21RON%2038.60%21%21%21%40211b680e17716271079251964e1d58%2112000041557693271%21ct%21RO%214338401437%21%211%210%21,6.7,1,6.7
+IRLZ44N  N MOSFET,logic level MOSFET,https://www.aliexpress.com/item/1005009630861300.html?spm=a2g0o.cart.0.0.75f438danNhNn6&mp=1&pdp_npi=6%40dis%21RON%21RON%2040.55%21RON%2019.06%21%21RON%2019.06%21%21%21%40211b680e17716270498018486e1d58%2112000049687607561%21ct%21RO%214338401437%21%211%210%21,2.87,1,2.87
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Shipping,,,,,3
+Total,,,,,25.21
